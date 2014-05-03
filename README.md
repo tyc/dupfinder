@@ -12,6 +12,7 @@ are copied into.
 
 running dupfinder.py
 ====================
+```
 Usage: dupfinder.py [options]
 
 Options:
@@ -23,7 +24,7 @@ Options:
                         where the unique files are to be copied into
   -l MAX_NUMBER_OF_FILES, --limits=MAX_NUMBER_OF_FILES
                         set a limit on the number of files to process
-
+```
 
 The problem it is trying to solve.
 ==================================
